@@ -1,6 +1,8 @@
 
 ## Hi, I'm Kaustubh Valanjuwani 
-Computer science student at DY PATIL UNIVERSITY 
+
+Computer science student at DY PATIL UNIVERSITY \\
+
 Designed Drosiness Detection System 
 
 
